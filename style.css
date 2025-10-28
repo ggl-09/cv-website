@@ -128,10 +128,24 @@ nav a:hover {
     box-shadow: 0 0 15px var(--accent);
 }
 
+/* Work history */
+.history {
+    padding: 5rem 2rem;
+    text-align: center;
+    background: var(--secondary);
+}
+
+.project-list {
+
+}
+
+ul {
+    list-style-type: square;
+}
+
 /* Projects */
 .projects {
     padding: 5rem 2rem;
-    background: var(--secondary);
     text-align: center;
 }
 .project-list {
