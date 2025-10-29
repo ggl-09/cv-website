@@ -1,4 +1,5 @@
 // Simple scroll fade-in animations
+
 const sections = document.querySelectorAll("section");
 
 window.addEventListener("scroll", () => {
